@@ -1,7 +1,7 @@
 import os, requests, re, time, sys
 
 def logo():
-    print("\n\x1b[1;97m\n\t\n        d8888b. .d8888. d8b   db\n        88  `8D 88'  YP 888o  88\n    \x1b[1;95m    88oooY' `8bo.   88V8o 88\n        88~~~b.   `Y8b. 88 V8o88\n   \x1b[1;97m     88   8D db   8D 88  V888\n        Y8888P' `8888Y' VP   V8P\n-------------------------------------------\n => Author  :  BILAL KHAN\n => Github  :  https://github.com/BIL4L-KH4N\n => Tools   :  Auto Friend Requests\n-------------------------------------------")
+    print("\n\x1b[1;97m\n\t\n        d8888b. .d8888. d8b   db\n        88  `8D 88'  YP 888o  88\n    \x1b[1;95m    88oooY' `8bo.   88V8o 88\n        88~~~b.   `Y8b. 88 V8o88\n   \x1b[1;97m     88   8D db   8D 88  V888\n        Y8888P' `8888Y' VP   V8P\n-------------------------------------------\n => Author  :  JARUL POGI\n => Github  :  https://github.com/BIL4L-KH4N\n => Tools   :  Auto Friend Requests\n-------------------------------------------")
     
 def file():
     os.system('clear')
